@@ -57,10 +57,10 @@ You can customize the questions by modifying the `questions` array in the `Teleg
 
 ```php
 $this->questions = [
-    "What is your name?",
-    "How old are you?",
-    "What is your favorite activity?",
-    "What are your hobbies?"
+    'What is your name?',
+    'How old are you?',
+    'What is your favorite activity?',
+    'What are your hobbies?',
 ];
 ```
 
