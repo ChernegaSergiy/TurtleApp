@@ -42,7 +42,7 @@
 To run the bot, you need to set up a webhook or use a polling method. For simplicity, you can use the polling method by executing the following command:
 
 ```bash
-php index.php
+php bot.php
 ```
 
 ### Usage
